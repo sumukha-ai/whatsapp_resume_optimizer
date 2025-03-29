@@ -1,0 +1,96 @@
+{
+  "Contact Information": {
+    "Full Name": "ASHISH BHARDWAJ",
+    "Phone Numbers": { "Mobile": "(+91)8368799029" },
+    "Email": "ashish.bhardwaj0445@gmail.com",
+    "Location": { "City": "Ghaziabad", "State": "U.P.", "Country": "India" },
+    "LinkedIn": "https://www.linkedin.com/in/ashish-bhardwaj", 
+    "GitHub": "https://github.com/ashish-bhardwaj"
+  },
+  "Education": [
+    {
+      "school": "Jaypee University of Information Technology, Waknaghat",
+      "degree": "Bachelor dl in Technology",
+      "date": "July 2016 - Present torch",
+      "details": "Current CGPA: 7.3 fine tuning fine-tune my skills in the field of Computer Science LoRa."
+    },
+    {
+      "school": "Ingraham English Medium School, Ghaziabad",
+      "degree": "Intermediate",
+      "date": "Passed in 2016",
+      "details": "Overall Percentage: 86.6"
+    }
+  ],
+  "Career Objective": "To work for an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization's objective.",
+  "Projects": [
+    {
+      "title": "Online Electricity Billing System",
+      "description": "The aim of our project is to develop a system that is meant to partially computerize the work performed in the Electricity Board.",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
+    },
+    {
+      "title": "Library Management System",
+      "description": "Developed a software system to handle the various functions of a library, such as issuing books, keeping records, and calculating fines.",
+      "technologies": ["C++", "File Handling", "OOP Concepts"]
+    },
+    {
+      "title": "Stock Market Prediction using R",
+      "description": "Implemented a machine learning model in R to analyze and predict stock market trends using historical data.",
+      "technologies": ["R", "Machine Learning", "Data Visualization"]
+    }
+  ],
+  "Technical Strengths": {
+    "Programming Skills": ["C++, C", "R", "Data Structures", "HTML", "CSS", "JavaScript", "Python", "SQL"],
+    "Software & Tools": ["RStudio", "Codeblocks", "Git", "VS Code", "Postman"],
+    "Frameworks & Libraries": ["Bootstrap", "jQuery", "Pandas", "NumPy"]
+  },
+  "Certifications": [
+    {
+      "title": "Data Science with R",
+      "organization": "Coursera",
+      "date": "2022"
+    },
+    {
+      "title": "Front-End Web Development",
+      "organization": "Udemy",
+      "date": "2021"
+    },
+    {
+      "title": "Python for Data Science",
+      "organization": "NPTEL",
+      "date": "2020"
+    }
+  ],
+  "Work Experience": [
+    {
+      "company": "Jio",
+      "position": "Project Intern",
+      "date": "June 2018 - July 2018",
+      "description": "Digital Champions Program involved applying theoretical knowledge to real-world business interactions."
+    },
+    {
+      "company": "ABC Tech Solutions",
+      "position": "Software Development Intern",
+      "date": "May 2019 - July 2019",
+      "description": "Worked on a web application project, improving UI/UX and backend database management."
+    }
+  ],
+  "Extracurricular Activities": [
+    {
+      "activity": "Technical Coordinator - University Coding Club",
+      "description": "Organized multiple coding competitions and mentorship programs for students."
+    },
+    {
+      "activity": "Volunteer - National Service Scheme (NSS)",
+      "description": "Participated in social service activities such as blood donation camps and cleanliness drives."
+    }
+  ],
+  "Personal Traits": [
+    "Highly motivated and eager to learn new things.",
+    "Ability to work as an individual as well as in a group.",
+    "Strong problem-solving and analytical skills.",
+    "Good communication and leadership qualities."
+  ],
+  "Languages": ["English", "Hindi"],
+  "Interests": ["Competitive Programming", "Machine Learning", "Web Development", "Stock Market Analysis"]
+}
