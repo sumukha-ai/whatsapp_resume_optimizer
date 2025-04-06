@@ -3,3 +3,4 @@
 !.gitignore
 !resume_data.json
 !jd.pdf
+!resume_format_convertor.py

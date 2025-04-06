@@ -1,6 +1,6 @@
 import json
 import re
-import fitz  # PyMuPDF
+import fitz  # type: ignore # PyMuPDF
 from collections import Counter
 
 # Predefined mapping for keyword normalization
